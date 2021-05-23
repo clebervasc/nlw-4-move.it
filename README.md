@@ -52,7 +52,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [css][https://www.w3schools.com/css/]
+- [css](https://www.w3schools.com/css/)
 
 ## :information_source: Como usar
 
