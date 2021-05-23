@@ -24,6 +24,10 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
+## 💻 Projeto
+
+O move.it é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+
 <h1 align="center">
     <p>Home</p>
     <img alt="Example" title="Example" src=".github/home.png" width="100%" />
@@ -39,11 +43,7 @@
     <img alt="Example" title="Example" src=".github/ciclo-fim.png" width="100%" />
 </h1>
 
-<a href="https://pomodoro-moveit-ten.vercel.app/">Demonstração</a>
-
-## 💻 Projeto
-
-O move.it é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+- [Demonstração](https://pomodoro-moveit-ten.vercel.app/)
 
 ## :rocket: Tecnologias
 
