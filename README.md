@@ -52,7 +52,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [css](https://www.w3schools.com/css/)
+- [Css](https://www.w3schools.com/css/)
 
 ## :information_source: Como usar
 
@@ -69,7 +69,7 @@ $ yarn install
 # Start o server
 $ yarn dev
 
-# Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
+# Agora você pode acessar http://localhost:3000 no seu navegador.
 
 # Alternar nome e avatar
 Acesse o arquivo: src/components/Profile.tsx
